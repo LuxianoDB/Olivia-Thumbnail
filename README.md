@@ -5,10 +5,10 @@
   <img src="./assets/Screenshot.png" alt="Olivia Image" width = "800" height="500" style="align-items=center; justify-content=center;" />
 </p>
 
-Olivia Thumbnail Extension by [LuxianoDB](https://x.com/LuxianoDB) 
+Olivia Thumbnails Extension by [LuxianoDB](https://x.com/LuxianoDB) 
 
 <p align="center">
-    <img src="https://pbs.twimg.com/profile_images/1792247785737035777/Zj-0J-0Y_400x400.jpg" alt="LuxianoDB Twitter" width="100" height="100" style="align-items=center; justify-content=center;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/300px-X_logo_2023_original.svg.png" alt="LuxianoDB Twitter" width="100" height="100" style="align-items=center; justify-content=center;" />
 </p>
 <br />
 All rights to the images go to their respective artists, the main source of images was snootbooru and the people of Discord.
